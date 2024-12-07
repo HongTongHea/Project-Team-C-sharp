@@ -1,94 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\",
+  "WorkspaceRootPath": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|d:\\bbu-c103\\3-client-server application development\\project-team-c#\\pos management system\\pos management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formitemaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formcustomeraddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formcustomeraddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\service\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\service\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\service\\purchasedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\service\\purchasedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\service\\saledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\service\\saledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formitemaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formitemaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formitemaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formitemaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\model\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\model\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formcustomeraddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\data\\model\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\data\\model\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formemployeeaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formemployeeaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E1940F0-B5FC-4E07-8341-DDA9B356A375}|POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM.csproj|solutionrelative:pos management system\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\pos management system\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,277 +83,256 @@
               "DocumentIndex": 1,
               "Title": "FormUser.cs",
               "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormUser.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwJ8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:30:47.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:30:47.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormUser.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs",
               "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormUser.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:30:45.923Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormItemAddEdit.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:39:15.96Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormItem.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItem.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormItem.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItem.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormItem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:39:15.083Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormItemAddEdit.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAANYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:50:23.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "ViewState": "AQIAALAAAAAAAAAAAAAAAMUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:43:32.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Dashboard.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:43:27.495Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PurchaseService.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAuwGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:01:41.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormCustomer.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormCustomer.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormCustomer.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAawFIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:59:19.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:30:45.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormPurchase.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAADgvzwAAAAMAAAA",
+              "Title": "FormItemAddEdit.cs [Design]",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:54:08.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T07:39:15.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormPurchase.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormPurchase.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormPurchase.cs [Design]",
+              "Title": "FormItem.cs [Design]",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItem.cs",
+              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormItem.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItem.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:49:57.509Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T07:39:15.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormSale.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormSale.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormSale.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormSale.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormSale.cs [Design]",
+              "Title": "FormItemAddEdit.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormItemAddEdit.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAANYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:48:58.286Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T06:50:23.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAAMUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:43:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:43:27.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PurchaseDetailService.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwGQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:45:31.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SaleService.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:35:18.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:01:41.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawFIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:59:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPurchase.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADgvzwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:54:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormPurchase.cs [Design]",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormPurchase.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormPurchase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:49:57.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormSale.cs [Design]",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormSale.cs",
+              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormSale.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormSale.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormSale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:48:58.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseDetailService.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\PurchaseDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:45:31.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:35:18.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SaleDetailService.cs",
               "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Service\\SaleDetailService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:32:04.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T05:32:04.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Purchase.cs",
               "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\Purchase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:31:21.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T05:31:21.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "PurchaseDetail.cs",
               "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Data\\Model\\PurchaseDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:26:23.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T05:26:23.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Program.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Program.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Program.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAlAAAA",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:36:15.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "FormCustomerAddEdit.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs",
               "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomerAddEdit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T11:19:28.577Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-27T11:19:28.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormEmployeeAddEdit.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
+              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEgAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:19:10.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "FormEmployeeAddEdit.cs",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
-              "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
-              "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormEmployeeAddEdit.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAEgAAAB+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T11:19:10.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "FormEmployee.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployee.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployee.cs",
               "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormEmployee.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployee.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T11:17:28.043Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-27T11:17:28.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "FormCustomer.cs [Design]",
-              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
+              "DocumentMoniker": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C-sharp\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs",
               "RelativeDocumentMoniker": "POS MANAGEMENT SYSTEM\\FormCustomer.cs",
               "ToolTip": "D:\\BBU-C103\\3-Client-Server Application Development\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs [Design]",
-              "RelativeToolTip": "POS MANAGEMENT SYSTEM\\FormCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project-Team-C#\\POS MANAGEMENT SYSTEM\\POS MANAGEMENT SYSTEM\\FormCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:11:47.213Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-25T13:11:47.213Z"
             }
           ]
         }
